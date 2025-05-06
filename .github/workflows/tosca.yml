@@ -1,0 +1,26 @@
+name: Run Tosca Tests
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-tosca-tests:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v3
+
+    - name: Download Tosca Execution Client
+      run: |
+        Invoke-WebRequest -Uri "https://example.com/tosca_execution_client.ps1" -OutFile "tosca_execution_client.ps1"
+        # Substitua pela URL real se tiver.
+
+    - name: Executar Testes Tosca
+      run: |
+        powershell.exe -ExecutionPolicy Bypass -File .\tosca_execution_client.ps1 `
+          -toscaServerUrl "http://SEU_TOSCA_SERVER" `
+          -projectName "tosca-expandtesting_api" `
+          -events '["EventID_ou_nome_do_evento"]'
