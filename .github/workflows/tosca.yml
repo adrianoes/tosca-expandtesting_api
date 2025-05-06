@@ -18,4 +18,8 @@ jobs:
         powershell.exe -ExecutionPolicy Bypass -File .\tosca_execution_client.ps1 `
           -toscaServerUrl "http://localhost:8732" `
           -projectName "tosca-expandtesting_api" `
-          -events '["1 - check api health - /health-check Request", "1 - check api health - /health-check Response"]'
+          -events '["1 - check api health - /health-check Request", "1 - check api health - /health-check Response"]' `
+          -clientId "${{ secrets.TOSCA_CLIENT_ID }}" `
+          -clientSecret "${{ secrets.TOSCA_CLIENT_SECRET }}"
+
+
