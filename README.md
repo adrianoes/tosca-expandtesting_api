@@ -26,6 +26,7 @@ API testing in [expandtesting](https://practice.expandtesting.com/notes/api/api-
 - [Random values: numbers and texts](https://documentation.tricentis.com/tosca/1600/en/content/tbox/random_values.htm)
 - [Link GitHub revisions to Tosca revisions](https://support-hub.tricentis.com/open?id=manual&lang=en&path=%2Ftosca%2F2420%2Fen%2Fcontent%2Ftosca_commander%2Fgithub.htm&product=tosca&sessionRotationTrigger=true&type=product_manual&version=2024.2)
 - [Tosca Tutorial | Lesson 82 - Buffer API Response Values | Configure Request Parameters | API Testing](https://www.youtube.com/watch?v=4Y9u474ohJM)
+- [Tosca Tutorial | Lesson 77 - View and Manage buffers using Buffer Viewer | Tools |](https://www.youtube.com/live/HOZ81KPcyMY)
 - [ChatGPT](https://openai.com/chatgpt/)
 
 # Tips:
