@@ -1,0 +1,91 @@
+[3] 09:29:14: Log started for 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[3] 09:29:14: Log level: 4
+[3] 09:29:14: Release: 24.2.1.1840
+[3] 09:29:14: Execution Approval is disabled.
+[3] 09:29:14: No service discovery configured.
+[3] 09:29:14:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.1.1840 (1840)
+[3] 09:29:14:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.1.1840 (1840)
+    + : SAPSolutionManagerIntegration 24.2.1.1840 (1840)
+[3] 09:29:14:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + RemoteControl: RemoteControlAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + Reporting: ReportingAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + ReportingUI: ReportingUIAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + RequirementsManagementAddIn: RequirementsManagement 24.2.1.1840 (1840)
+[3] 09:29:14:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.1.1840 (1840)
+[3] 09:29:14:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.1.1840 (1840)
+[3] 09:29:14:  + TestCaseDesign: TestCaseDesign 24.2.1.1840 (1840)
+[3] 09:29:14: Opened from Workspace File 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[2] 09:29:14: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 09:29:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 09:29:18:  ShowStatusInfo: 'Ready'
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 09:29:18:  ShowStatusInfo: 'Ready'
+[4] 09:29:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:29:18:  ShowStatusInfo: 'Refresh all finished'
+[3] 09:29:18: OpenWorkspace took 00:00:05.8106320 to finish
+[2] 09:29:18: Common repository is not available
+[4] 09:29:23:  ShowStatusInfo: 'Ready'
+[4] 09:29:45:  ShowStatusInfo: 'Start API Scan'
+[0] 09:30:45: An unexpected Exception occurred during the ApiScan operation
+System.AggregateException: One or more errors occurred. (API Scan could not be started in a minute)
+ ---> System.TimeoutException: API Scan could not be started in a minute
+   at Tricentis.Automation.Api.AddIn.Exchange.Commander.CommanderLink.StartApiScan(IApiTask task, Boolean blank)
+   at Tricentis.Automation.Api.AddIn.Exchange.Commander.CommanderLink.<>c__DisplayClass50_0.<StartApiScan>b__0()
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Tricentis.Automation.Api.AddIn.Tasks.StartApiScan.Execute()
+   at Tricentis.Automation.Api.AddIn.Tasks.ApiTask.Execute()
+[1] 09:30:45:  ShowErrorMessage: title='Start API Scan' message='API Scan could not be started in a minute'
+[4] 09:30:46:  ShowStatusInfo: 'Ready'
+[4] 09:30:46:  ShowStatusInfo: 'Start API Scan finalizing ...'
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 09:30:46:  ShowStatusInfo: 'Ready'
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 09:30:46:  ShowStatusInfo: 'Ready'
+[4] 09:30:46:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:30:46:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:30:46:  ShowStatusInfo: 'Start API Scan finished'
+[3] 09:30:46: Task 'API Start API Scan' finished
+[3] 09:30:49: Closing Workspace!
+[3] 09:30:49: Log closed!

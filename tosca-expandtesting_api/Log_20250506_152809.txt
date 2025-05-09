@@ -1,0 +1,54 @@
+[3] 15:28:09: Log started for 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[3] 15:28:09: Log level: 4
+[3] 15:28:09: Release: 24.2.1.1840
+[3] 15:28:09: Execution Approval is disabled.
+[3] 15:28:09: No service discovery configured.
+[3] 15:28:09:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.1.1840 (1840)
+[3] 15:28:09:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.1.1840 (1840)
+    + : SAPSolutionManagerIntegration 24.2.1.1840 (1840)
+[3] 15:28:09:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + RemoteControl: RemoteControlAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + Reporting: ReportingAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + ReportingUI: ReportingUIAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + RequirementsManagementAddIn: RequirementsManagement 24.2.1.1840 (1840)
+[3] 15:28:09:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.1.1840 (1840)
+[3] 15:28:09:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.1.1840 (1840)
+[3] 15:28:09:  + TestCaseDesign: TestCaseDesign 24.2.1.1840 (1840)
+[3] 15:28:09: Opened from Workspace File 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[2] 15:28:09: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 15:28:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh navigation view 'tosca-expandtesting_api''
+[4] 15:28:13:  ShowStatusInfo: 'Ready'
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh detail view 'tosca-expandtesting_api''
+[4] 15:28:13:  ShowStatusInfo: 'Ready'
+[4] 15:28:13:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:28:13:  ShowStatusInfo: 'Refresh all finished'
+[3] 15:28:13: OpenWorkspace took 00:00:05.8488938 to finish
+[2] 15:28:13: Common repository is not available
+[4] 15:28:18:  ShowStatusInfo: 'Ready'
+[4] 15:28:34:  ShowStatusInfo: '1 object selected'
+[4] 15:28:35:  ShowStatusInfo: 'Ready'
+[4] 15:28:35:  ShowStatusInfo: '1 object selected'
+[4] 15:28:40:  ShowStatusInfo: 'Ready'
+[3] 15:28:58: Closing Workspace!
+[3] 15:28:58: Log closed!

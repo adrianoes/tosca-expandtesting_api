@@ -1,0 +1,293 @@
+[3] 12:08:54: Log started for 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[3] 12:08:54: Log level: 4
+[3] 12:08:54: Release: 24.2.1.1840
+[3] 12:08:54: Execution Approval is disabled.
+[3] 12:08:54: No service discovery configured.
+[3] 12:08:54:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.1.1840 (1840)
+[3] 12:08:54:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.1.1840 (1840)
+    + : SAPSolutionManagerIntegration 24.2.1.1840 (1840)
+[3] 12:08:54:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + RemoteControl: RemoteControlAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + Reporting: ReportingAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + ReportingUI: ReportingUIAddIn 24.2.1.1840 (1840)
+[3] 12:08:54:  + RequirementsManagementAddIn: RequirementsManagement 24.2.1.1840 (1840)
+[3] 12:08:54:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.1.1840 (1840)
+[3] 12:08:54:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.1.1840 (1840)
+[3] 12:08:55:  + TestCaseDesign: TestCaseDesign 24.2.1.1840 (1840)
+[3] 12:08:55: Opened from Workspace File 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[2] 12:08:55: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 12:08:59:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:08:59:  ShowStatusInfo: 'Ready'
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:08:59:  ShowStatusInfo: 'Ready'
+[4] 12:08:59:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:08:59:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:08:59: OpenWorkspace took 00:00:07.1939326 to finish
+[2] 12:08:59: Common repository is not available
+[4] 12:09:03:  ShowStatusInfo: 'Ready'
+[4] 12:09:03:  ShowStatusInfo: '1 object selected'
+[4] 12:09:05:  ShowStatusInfo: 'Ready'
+[4] 12:09:05:  ShowStatusInfo: '1 object selected'
+[4] 12:09:08:  ShowStatusInfo: 'Ready'
+[4] 12:09:08:  ShowStatusInfo: '1 object selected'
+[4] 12:09:13:  ShowStatusInfo: 'Ready'
+[4] 12:09:18:  ShowStatusInfo: '1 object selected'
+[4] 12:09:27:  ShowStatusInfo: 'Ready'
+[4] 12:15:17:  ShowStatusInfo: '1 object selected'
+[4] 12:15:19:  ShowStatusInfo: 'Ready'
+[4] 12:15:21:  ShowStatusInfo: '1 object selected'
+[4] 12:15:21:  ShowStatusInfo: 'Ready'
+[4] 12:15:24:  ShowStatusInfo: '1 object selected'
+[4] 12:15:26:  ShowStatusInfo: 'Ready'
+[4] 12:15:26:  ShowStatusInfo: '1 object selected'
+[4] 12:15:26:  ShowStatusInfo: 'Ready'
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:15:31:  ShowStatusInfo: 'Ready'
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:15:31:  ShowStatusInfo: 'Ready'
+[4] 12:15:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:15:31:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:15:33:  ShowStatusInfo: '1 object selected'
+[4] 12:15:34:  ShowStatusInfo: 'Ready'
+[4] 12:15:35:  ShowStatusInfo: '2 objects selected'
+[4] 12:15:37:  ShowStatusInfo: 'Ready'
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:15:38:  ShowStatusInfo: 'Ready'
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:15:38:  ShowStatusInfo: 'Ready'
+[4] 12:15:38:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:15:38:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:15:39:  ShowStatusInfo: 'Ready'
+[4] 12:16:25:  ShowStatusInfo: '1 object selected'
+[4] 12:16:25:  ShowStatusInfo: 'Ready'
+[3] 12:16:35: Task 'API Add Module Attribute(s)' started on '/ApiScan_Import/Modules/1 - check api health - \/health-check Response'
+[4] 12:16:35:  ShowStatusInfo: 'API Add Module Attribute(s)'
+[4] 12:16:35:  ShowStatusInfo: 'Ready'
+[4] 12:16:36:  ShowStatusInfo: 'Add Module Attribute(s) finished'
+[3] 12:16:36: Task 'API Add Module Attribute(s)' finished
+[4] 12:16:41:  ShowStatusInfo: 'Ready'
+[4] 12:18:13:  ShowStatusInfo: '1 object selected'
+[4] 12:18:13:  ShowStatusInfo: 'Ready'
+[4] 12:18:19:  ShowStatusInfo: '1 object selected'
+[4] 12:18:19:  ShowStatusInfo: 'Ready'
+[4] 12:18:20:  ShowStatusInfo: '1 object selected'
+[4] 12:18:20:  ShowStatusInfo: 'Ready'
+[4] 12:18:26:  ShowStatusInfo: '1 object selected'
+[2] 12:18:26: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.1.1840, Culture=pt-BR, PublicKeyToken=null
+[2] 12:18:26: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=24.2.1.1840, Culture=pt, PublicKeyToken=null
+[4] 12:18:26:  ShowStatusInfo: 'Ready'
+[4] 12:18:40:  ShowStatusInfo: '1 object selected'
+[4] 12:18:40:  ShowStatusInfo: 'Ready'
+[4] 12:18:57:  ShowStatusInfo: '1 object selected'
+[4] 12:18:57:  ShowStatusInfo: 'Ready'
+[4] 12:18:58:  ShowStatusInfo: '1 object selected'
+[4] 12:18:58:  ShowStatusInfo: 'Ready'
+[4] 12:19:02:  ShowStatusInfo: '1 object selected'
+[4] 12:19:02:  ShowStatusInfo: 'Ready'
+[4] 12:19:04:  ShowStatusInfo: '1 object selected'
+[4] 12:19:04:  ShowStatusInfo: 'Ready'
+[4] 12:20:17:  ShowStatusInfo: '1 object selected'
+[4] 12:20:17:  ShowStatusInfo: 'Ready'
+[3] 12:20:20: Task 'Run in ScratchBook' started on '/ApiScan_Import/TestCases/expandtesting'
+[4] 12:20:20:  ShowStatusInfo: 'Run in ScratchBook'
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:20:20:  ShowStatusInfo: 'Ready'
+[4] 12:20:20:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:20:20:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:20:21:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:20:21:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:20:21:  ShowStatusInfo: 'Ready'
+[4] 12:20:21:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:20:21:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:20:21:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 12:20:21:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 12:20:21:  ShowStatusInfo: 'Execution Running ...'
+[2] 12:20:21: CommanderAssemblyResolver: Unable to resolve: DevExpress.Xpf.Themes.Office2019Colorful.v24.1.Aero2, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+[2] 12:20:21: CommanderAssemblyResolver: Unable to resolve: DevExpress.Xpf.Themes.Office2019Colorful.v24.1.Aero2, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+[4] 12:20:23:  ShowStatusInfo: 'Processing execution results ...'
+[3] 12:20:23: AgentResults count: 1
+[3] 12:20:24: executionResponses count: 1
+[4] 12:20:24:  ShowStatusInfo: 'Run finalizing ...'
+[4] 12:20:24:  ShowStatusInfo: 'Run finished'
+[3] 12:20:24: Task 'Run' finished
+[4] 12:20:24:  ShowStatusInfo: 'Ready'
+[4] 12:20:24:  ShowStatusInfo: 'Run in ScratchBook finalizing ...'
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:20:24:  ShowStatusInfo: 'Ready'
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:20:24:  ShowStatusInfo: 'Ready'
+[4] 12:20:24:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:20:24:  ShowStatusInfo: 'Run in ScratchBook finished'
+[3] 12:20:24: Task 'Run in ScratchBook' finished
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:20:24:  ShowStatusInfo: 'Ready'
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:20:24:  ShowStatusInfo: 'Ready'
+[4] 12:20:24:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:20:24:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:20:24:  ShowStatusInfo: 'Ready'
+[4] 12:20:29:  ShowStatusInfo: '1 object selected'
+[4] 12:20:30:  ShowStatusInfo: 'Ready'
+[4] 12:20:30:  ShowStatusInfo: '1 object selected'
+[4] 12:20:33:  ShowStatusInfo: 'Ready'
+[4] 12:20:33:  ShowStatusInfo: '1 object selected'
+[4] 12:20:35:  ShowStatusInfo: 'Ready'
+[4] 12:20:35:  ShowStatusInfo: '1 object selected'
+[4] 12:20:40:  ShowStatusInfo: 'Ready'
+[4] 12:20:42:  ShowStatusInfo: 'Saving ...'
+[3] 12:20:42:  Save started!
+[3] 12:20:42: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:20:42: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:20:42: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:20:42: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:20:42: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:20:42: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:20:42:  Save finished!
+[4] 12:20:42:  ShowStatusInfo: 'Saved successfully'
+[4] 12:20:42:  ShowStatusInfo: 'Ready'
+[4] 12:21:25:  ShowStatusInfo: '1 object selected'
+[4] 12:21:25:  ShowStatusInfo: 'Ready'
+[4] 12:21:51:  ShowStatusInfo: '1 object selected'
+[4] 12:21:51:  ShowStatusInfo: 'Ready'
+[4] 12:22:11:  ShowStatusInfo: '1 object selected'
+[4] 12:22:13:  ShowStatusInfo: 'Ready'
+[4] 12:22:13:  ShowStatusInfo: '1 object selected'
+[4] 12:22:15:  ShowStatusInfo: 'Ready'
+[4] 12:22:15:  ShowStatusInfo: '1 object selected'
+[4] 12:22:18:  ShowStatusInfo: 'Ready'
+[4] 12:22:19:  ShowStatusInfo: '1 object selected'
+[3] 12:22:23: Task 'API Start API Scan' started on '/ApiScan_Import/Modules/1 - check api health - \/health-check Request'
+[4] 12:22:23:  ShowStatusInfo: 'API Start API Scan'
+[4] 12:22:26:  ShowStatusInfo: 'Start API Scan'
+[0] 12:23:25: An unexpected Exception occurred during the ApiScan operation
+System.AggregateException: One or more errors occurred. (API Scan could not be started in a minute)
+ ---> System.TimeoutException: API Scan could not be started in a minute
+   at Tricentis.Automation.Api.AddIn.Exchange.Commander.CommanderLink.StartApiScan(IApiTask task, Boolean blank)
+   at Tricentis.Automation.Api.AddIn.Exchange.Commander.CommanderLink.<>c__DisplayClass50_0.<StartApiScan>b__0()
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Tricentis.Automation.Api.AddIn.Tasks.StartApiScan.Execute()
+   at Tricentis.Automation.Api.AddIn.Tasks.ApiTask.Execute()
+[1] 12:23:25:  ShowErrorMessage: title='Start API Scan' message='API Scan could not be started in a minute'
+[4] 12:24:09:  ShowStatusInfo: 'Ready'
+[4] 12:24:09:  ShowStatusInfo: 'Start API Scan finalizing ...'
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:24:09:  ShowStatusInfo: 'Ready'
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:24:09:  ShowStatusInfo: 'Ready'
+[4] 12:24:09:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:24:09:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:24:09:  ShowStatusInfo: 'Start API Scan finished'
+[3] 12:24:09: Task 'API Start API Scan' finished
+[3] 12:24:13: Closing Workspace!
+[3] 12:24:13: Log closed!

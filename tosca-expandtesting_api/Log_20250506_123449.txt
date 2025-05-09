@@ -1,0 +1,77 @@
+[3] 12:34:49: Log started for 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[3] 12:34:49: Log level: 4
+[3] 12:34:49: Release: 24.2.1.1840
+[3] 12:34:49: Execution Approval is disabled.
+[3] 12:34:49: No service discovery configured.
+[3] 12:34:49:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.1.1840 (1840)
+[3] 12:34:49:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.1.1840 (1840)
+    + : SAPSolutionManagerIntegration 24.2.1.1840 (1840)
+[3] 12:34:49:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + RemoteControl: RemoteControlAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + Reporting: ReportingAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + ReportingUI: ReportingUIAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + RequirementsManagementAddIn: RequirementsManagement 24.2.1.1840 (1840)
+[3] 12:34:49:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.1.1840 (1840)
+[3] 12:34:49:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.1.1840 (1840)
+[3] 12:34:49:  + TestCaseDesign: TestCaseDesign 24.2.1.1840 (1840)
+[3] 12:34:49: Opened from Workspace File 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[2] 12:34:49: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 12:34:55:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:34:55:  ShowStatusInfo: 'Ready'
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:34:55:  ShowStatusInfo: 'Ready'
+[4] 12:34:55:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:34:55:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:34:56: OpenWorkspace took 00:00:08.6330155 to finish
+[2] 12:34:56: Common repository is not available
+[4] 12:35:00:  ShowStatusInfo: 'Ready'
+[4] 12:35:00:  ShowStatusInfo: '1 object selected'
+[4] 12:35:01:  ShowStatusInfo: 'Ready'
+[4] 12:35:01:  ShowStatusInfo: '1 object selected'
+[4] 12:35:02:  ShowStatusInfo: 'Ready'
+[4] 12:35:02:  ShowStatusInfo: '1 object selected'
+[4] 12:35:07:  ShowStatusInfo: 'Ready'
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh navigation view 'ApiScan_Import''
+[4] 12:35:36:  ShowStatusInfo: 'Ready'
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh detail view 'ApiScan_Import''
+[4] 12:35:36:  ShowStatusInfo: 'Ready'
+[4] 12:35:36:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:35:36:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:35:41:  ShowStatusInfo: 'Ready'
+[3] 12:35:46: Closing Workspace!
+[3] 12:35:46: Log closed!

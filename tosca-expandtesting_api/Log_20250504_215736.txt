@@ -1,0 +1,25 @@
+[3] 21:57:36: Log started for 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws'
+[3] 21:57:36: Log level: 4
+[3] 21:57:36: Release: 24.2.1.1840
+[3] 21:57:36: Execution Approval is disabled.
+[3] 21:57:36: No service discovery configured.
+[3] 21:57:36:  Save started!
+[3] 21:57:36: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:57:36: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:57:36: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:57:36: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:57:36: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:57:36: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 21:57:36:  Save finished!
+[4] 21:57:36:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 21:57:36:  Save started!
+[3] 21:57:36: QTestIntegrationAddIn beginning to Export to QTest
+[3] 21:57:36: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 21:57:36: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 21:57:36: LinkTcToQTestService grouping testcases by same endpoint
+[3] 21:57:36: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 21:57:36: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 21:57:37:  Save finished!
+[4] 21:57:37:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\tosca-expandtesting_api\tosca-expandtesting_api.tws' created successfully!'
+[3] 21:57:40: Closing Workspace!
+[3] 21:57:40: Log closed!
